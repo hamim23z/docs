@@ -42,8 +42,18 @@
         "quickstart",
         "selfgenerate",
         "aigenerate",
-        "timer",
-        "chronicleai"
+        "chronicleai",
+        "timer"
+      ]
+    },
+    {
+      "group": "Coming Soon",
+      "pages": [
+        "videovault",
+        "studykit",
+        "pomodoro",
+        "quizzes",
+        "worksheets"
       ]
     }
   ],
