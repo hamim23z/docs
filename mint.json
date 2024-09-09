@@ -39,11 +39,11 @@
     {
       "group": "Get Started",
       "pages": [
-        "quick start",
-        "self generate tutorial",
-        "ai generate tutorial",
+        "quickstart",
+        "selfgenerate",
+        "aigenerate",
         "timer",
-        "chronicle ai"
+        "chronicleai"
       ]
     }
   ],
