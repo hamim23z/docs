@@ -37,13 +37,13 @@
       ]
     },
     {
-      "group": "General",
+      "group": "Get Started",
       "pages": [
-        "introduction",
-        "pricing",
-        "support",
-        "faqs",
-        "blog"
+        "quick start",
+        "self generate tutorial",
+        "ai generate tutorial",
+        "timer",
+        "chronicle ai"
       ]
     },
     {
