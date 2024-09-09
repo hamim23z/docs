@@ -35,8 +35,29 @@
         "faqs",
         "blog"
       ]
+    },
+    {
+      "group": "General",
+      "pages": [
+        "introduction",
+        "pricing",
+        "support",
+        "faqs",
+        "blog"
+      ]
+    },
+    {
+      "group": "General",
+      "pages": [
+        "introduction",
+        "pricing",
+        "support",
+        "faqs",
+        "blog"
+      ]
     }
   ],
+  
   "footerSocials": {
     "x": "https://x.com",
     "github": "https://github.com/hamim23z",
